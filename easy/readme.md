@@ -1,4 +1,4 @@
-**memory runtimes are subjective**
+**memory and runtimes are subjective**
 
 # Easy:
 ### Roman to Integer:
