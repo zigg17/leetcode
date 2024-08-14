@@ -1,4 +1,4 @@
-**memory and runtimes are subjective**
+**memory and runtimes are subjective due to varying leetcode environment**
 
 # Easy:
 * [link](1-easy)

@@ -1,4 +1,4 @@
-**memory and runtimes are subjective**
+**memory and runtimes are subjective due to varying leetcode environment**
 
 # Easy:
 ### Roman to Integer:
