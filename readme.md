@@ -1,10 +1,10 @@
 **memory and runtimes are subjective**
 
 # Easy:
-* [link](easy)
+* [link](1-easy)
 
 # Medium:
-* [link](medium)
+* [link](2-medium)
 
 # Hard:
-* [link](hard)
+* [link](3-hard)
