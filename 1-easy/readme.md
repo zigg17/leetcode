@@ -12,11 +12,11 @@
 * [link](longest_common_prefix.py)
 
 ### Palindrome Number:
-* Runtime: **46 MB**, beats **86.54%** of other users.
+* Runtime: **46 ms**, beats **86.54%** of other users.
 * Memory: **16.47 MB**, beats **82.09%** of other users.
 * [link](palindrome_number.py)
 
 ### Valid Parenthesis:
-* Runtime: **MB**, beats **%** of other users.
-* Memory: **MB**, beats **%** of other users.
-* [link]()
+* Runtime: **31 ms**, beats **82.27%** of other users.
+* Memory: **16.43 MB**, beats **88.70%** of other users.
+* [link](valid_parenthesis.py)
