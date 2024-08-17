@@ -20,3 +20,28 @@
 * Runtime: **31 ms**, beats **82.27%** of other users.
 * Memory: **16.43 MB**, beats **88.70%** of other users.
 * [link](valid_parenthesis.py)
+
+### Merge Two Sorted Lists:
+* Runtime: **ms**, beats **%** of other users.
+* Memory: **MB**, beats **%** of other users.
+* [link]()
+
+### Remove Duplicates from Sorted Array:
+* Runtime: **ms**, beats **%** of other users.
+* Memory: **MB**, beats **%** of other users.
+* [link]()
+
+### Remove Element:
+* Runtime: **ms**, beats **%** of other users.
+* Memory: **MB**, beats **%** of other users.
+* [link]()
+
+### Find the Index of the First Occurence in a String:
+* Runtime: **ms**, beats **%** of other users.
+* Memory: **MB**, beats **%** of other users.
+* [link]()
+
+### Remove Element:
+* Runtime: **ms**, beats **%** of other users.
+* Memory: **MB**, beats **%** of other users.
+* [link]()
