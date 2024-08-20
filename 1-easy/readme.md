@@ -22,9 +22,9 @@
 * [link](valid_parenthesis.py)
 
 ### Merge Two Sorted Lists:
-* Runtime: **ms**, beats **%** of other users.
-* Memory: **MB**, beats **%** of other users.
-* [link]()
+* Runtime: **35 ms**, beats **76.37%** of other users.
+* Memory: **16.47 MB**, beats **76.24%** of other users.
+* [link](merge_two_sorted_lists.py)
 
 ### Remove Duplicates from Sorted Array:
 * Runtime: **ms**, beats **%** of other users.
@@ -41,7 +41,7 @@
 * Memory: **MB**, beats **%** of other users.
 * [link]()
 
-### Remove Element:
+### Search Insert Position:
 * Runtime: **ms**, beats **%** of other users.
 * Memory: **MB**, beats **%** of other users.
 * [link]()
