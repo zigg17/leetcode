@@ -27,8 +27,8 @@
 * [link](merge_two_sorted_lists.py)
 
 ### Remove Duplicates from Sorted Array:
-* Runtime: **ms**, beats **%** of other users.
-* Memory: **MB**, beats **%** of other users.
+* Runtime: **67 ms**, beats **92.26%** of other users.
+* Memory: **17.92 MB**, beats **43.60%** of other users.
 * [link]()
 
 ### Remove Element:
