@@ -29,7 +29,7 @@
 ### Remove Duplicates from Sorted Array:
 * Runtime: **67 ms**, beats **92.26%** of other users.
 * Memory: **17.92 MB**, beats **43.60%** of other users.
-* [link]()
+* [link](remove_duplicates_from_sorted_array.py)
 
 ### Remove Element:
 * Runtime: **ms**, beats **%** of other users.
