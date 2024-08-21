@@ -32,9 +32,9 @@
 * [link](remove_duplicates_from_sorted_array.py)
 
 ### Remove Element:
-* Runtime: **ms**, beats **%** of other users.
-* Memory: **MB**, beats **%** of other users.
-* [link]()
+* Runtime: **33 ms**, beats **81.55%** of other users.
+* Memory: **16.48 MB**, beats **66.84%** of other users.
+* [link](remove_element.py)
 
 ### Find the Index of the First Occurence in a String:
 * Runtime: **ms**, beats **%** of other users.
